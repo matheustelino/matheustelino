@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheustelino!
 - 👀 I’m interested in racing cars, technologies and learning coding.
-- 🌱 I’m currently learning python and want to get the backend developer roadmap.
+- 🌱 I’m currently learning python and want to get the developer roadmap.
 - 💞️ I’m looking to collaborate on all projects to get experience.
 - 📫 How to reach me: @thundertelino or @matheustelino
 - Welcome!
