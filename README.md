@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matheustelino!
+- 👋 Hi, I’m Matheus Telino!
 - 👀 I’m interested in racing cars, technologies and learning coding.
 - 🌱 I’m currently learning python and want to get the developer roadmap.
 - 💞️ I’m looking to collaborate on all projects to get experience.
